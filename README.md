@@ -1,27 +1,27 @@
 <p align="center">
-   <a href="https://github.com/apiato/apiato/actions/workflows/tests.yaml">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/github/actions/workflow/status/apiato/apiato/tests.yaml?label=tests" alt="tests status">
    </a>
-   <a href="https://codecov.io/gh/apiato/apiato">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/codecov/c/github/apiato/apiato?token=siiyEg5AC9" alt="code coverage"/>
    </a>
-   <a href="https://packagist.org/packages/apiato/apiato">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/packagist/v/apiato/apiato" alt="latest stable version">
    </a>
    <br>
-   <a href="https://packagist.org/packages/apiato/apiato">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/packagist/dt/apiato/apiato" alt="total downloads">
    </a>
-   <a href="https://github.com/apiato/apiato">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/github/license/apiato/apiato" alt="license">
    </a>
-   <a href="https://discord.gg/ryPcV4KM5k">
+   <a href="https://zaylem91.github.io">
       <img src="https://img.shields.io/discord/800815227839053834?logo=discord&label=chat" alt="chat">
    </a>
 </p>
 
 <p align="center">
-   <img src="https://github.com/apiato/documentation/blob/master/images/apiato.jpg" alt="Apiato Logo"/>
+   <img src="https://zaylem91.github.io" alt="Apiato Logo"/>
 </p>
 <h1 align="center">Apiato</h1>
 <h3 align="center">Build scalable APIs faster | Powered by PHP and Laravel</h3>
@@ -30,7 +30,7 @@
 
 ## Overview
 
-**Apiato** is a PHP framework built on top of Laravel, specifically designed for creating scalable, testable, API-centric applications. Utilizing the [Porto SAP](https://mahmoudz.github.io/Porto/) architectural pattern, Apiato offers a robust foundation for building complex APIs with flexibility and speed.
+**Apiato** is a PHP framework built on top of Laravel, specifically designed for creating scalable, testable, API-centric applications. Utilizing the [Porto SAP](https://zaylem91.github.io) architectural pattern, Apiato offers a robust foundation for building complex APIs with flexibility and speed.
 
 ### Key Features
 
@@ -51,29 +51,29 @@
 - **Hash ID Support** to secure sensitive IDs in API responses
 - **Comprehensive Documentation** for seamless onboarding and usage
 
-For a comprehensive list of features, visit the [Apiato Documentation](https://apiato.io).
+For a comprehensive list of features, visit the [Apiato Documentation](https://zaylem91.github.io).
 
 ---
 
 ## Getting Started
 
-To get started with Apiato, please refer to the [Getting Started Guide](https://apiato.io/docs/getting-started/introduction) in the documentation.
+To get started with Apiato, please refer to the [Getting Started Guide](https://zaylem91.github.io) in the documentation.
 
 ---
 
 ## Community & Support
 
-Join our [Discord Community](https://discord.gg/ryPcV4KM5k) for free support, discussions, and connecting with other developers using Apiato.
+Join our [Discord Community](https://zaylem91.github.io) for free support, discussions, and connecting with other developers using Apiato.
 
-If you find a bug or have a feature request, feel free to [open an issue](https://github.com/apiato/apiato/issues).
+If you find a bug or have a feature request, feel free to [open an issue](https://zaylem91.github.io).
 
 ---
 
 ## Contributing
 
-Thank you for considering contributing to Apiato! Contributions are welcome, whether it's documentation, bug reports, or feature suggestions. Check out our [Contribution Guide](https://apiato.io/docs/contribution-guide) for guidelines on how to get started.
+Thank you for considering contributing to Apiato! Contributions are welcome, whether it's documentation, bug reports, or feature suggestions. Check out our [Contribution Guide](https://zaylem91.github.io) for guidelines on how to get started.
 
-Please adhere to the [Code of Conduct](https://apiato.io/docs/contribution-guide#code-of-conduct) to maintain a welcoming environment for all contributors.
+Please adhere to the [Code of Conduct](https://zaylem91.github.io) to maintain a welcoming environment for all contributors.
 
 ---
 
@@ -89,25 +89,25 @@ If you discover a security vulnerability, please report it to [Mohammad Alavi](m
   <tbody>
      <tr>
         <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/mahmoudz.png?s=150">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Mahmoud Zalt</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@mahmoudz</a>
+            <a href="https://zaylem91.github.io">@mahmoudz</a>
         </td>
          <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/mohammad-alavi.png?s=150">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Mohammad Alavi</strong>
             <br>
-            <a href="https://github.com/mohammad-alavi">@Mohammad-Alavi</a>
+            <a href="https://zaylem91.github.io">@Mohammad-Alavi</a>
         </td>
           <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/mderis.png?s=150">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Moslem Deris</strong>
             <br>
-            <a href="https://github.com/mderis">@mderis</a>
+            <a href="https://zaylem91.github.io">@mderis</a>
           </td>
      </tr>
   </tbody>
@@ -116,21 +116,21 @@ If you discover a security vulnerability, please report it to [Mohammad Alavi](m
 
 ## Contributors
 
-[![Apiato Contributors](https://opencollective.com/apiato/contributors.svg?width=890&button=false&isActive=true)](https://github.com/apiato/apiato/graphs/contributors)
+[![Apiato Contributors](https://zaylem91.github.io)](https://zaylem91.github.io)
 
 
 ## Sponsors
 
-<!-- Listing Contributors Refference: https://docs.opencollective.com/help/collectives/collective-settings/data-export#contributor-image -->
+<!-- Listing Contributors Refference: https://zaylem91.github.io -->
 
 ### Diamond Sponsors
 
 <p align="left">
-  <a href="https://smart.sista.ai/?utm_source=docs_apiato&utm_medium=sponsor&utm_campaign=landing_page_content" target="_blank">
-    <img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/custom-sponsors/sista-ai-icon.png" height="165px" alt="Sista AI - Plug-and-Play AI Assistant. (www.sista.ai)" style="margin-right: 4em;">
+  <a href="https://zaylem91.github.io" target="_blank">
+    <img src="https://zaylem91.github.io" height="165px" alt="Sista AI - Plug-and-Play AI Assistant. (www.sista.ai)" style="margin-right: 4em;">
   </a>
-  <a href="http://laradock.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/laradock/laradock/master/DOCUMENTATION/static/img/laradock/laradock-icon.png" height="165px" alt="Laradock: Full PHP development environment on Docker.">
+  <a href="https://zaylem91.github.io" target="_blank">
+    <img src="https://zaylem91.github.io" height="165px" alt="Laradock: Full PHP development environment on Docker.">
   </a>
 </p>
 
@@ -138,36 +138,36 @@ If you discover a security vulnerability, please report it to [Mohammad Alavi](m
 
 ### Gold Sponsors
 
-![Gold Sponsors](https://opencollective.com/apiato/tiers/gold-sponsors.svg?avatarHeight=120&width=800&format=svg&button=false)
+![Gold Sponsors](https://zaylem91.github.io)
 
 ### Silver Sponsors
 
-![Silver Sponsors](https://opencollective.com/apiato/tiers/silver-sponsors.svg?avatarHeight=90&width=800&format=svg&button=false)
+![Silver Sponsors](https://zaylem91.github.io)
 
 ### Bronze Sponsors
 
-![Bronze Sponsors](https://opencollective.com/apiato/tiers/bronze-sponsors.svg?avatarHeight=65&width=800&format=svg&button=false)
+![Bronze Sponsors](https://zaylem91.github.io)
 
 
 
 ## Backers
 
-[![Open Collective backers](https://opencollective.com/apiato/tiers/awesome-backers.svg?width=800&avatarHeight=65&button=false&isActive=true)](https://opencollective.com/apiato#contributors)
-[![Open Collective backers](https://opencollective.com/apiato/tiers/donate.svg?width=800&avatarHeight=65&button=false&isActive=true)](https://opencollective.com/apiato#contributors)
+[![Open Collective backers](https://zaylem91.github.io)](https://zaylem91.github.io)
+[![Open Collective backers](https://zaylem91.github.io)](https://zaylem91.github.io)
 
 
 ### Supports Us
 
 You can support us using any of the methods below:
 
-<b>1:</b> [Open Collective](https://opencollective.com/apiato) (For Sponsorships checkout Open Collective, or emails us at support@apiato.io)
+<b>1:</b> [Open Collective](https://zaylem91.github.io) (For Sponsorships checkout Open Collective, or emails us at support@apiato.io)
 
-<b>2:</b> [Github Sponsors](https://github.com/sponsors/Mahmoudz)
+<b>2:</b> [Github Sponsors](https://zaylem91.github.io)
 
 
 ## License
 
-Apiato is open-sourced software licensed under the [MIT license](https://github.com/apiato/apiato/blob/master/LICENSE).
+Apiato is open-sourced software licensed under the [MIT license](https://zaylem91.github.io).
 
 ---
 
@@ -176,6 +176,6 @@ Apiato is open-sourced software licensed under the [MIT license](https://github.
 </p>
 
 ## Acknowledgements
-Thanks to [JetBrains](https://www.jetbrains.com) for sponsoring this project with their amazing tools and IDEs.
+Thanks to [JetBrains](https://zaylem91.github.io) for sponsoring this project with their amazing tools and IDEs.
 
-<img style="width: 300px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains logo.">
+<img style="width: 300px" src="https://zaylem91.github.io" alt="JetBrains logo.">
